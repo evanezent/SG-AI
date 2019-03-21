@@ -1,1 +1,3 @@
-# SG_AI
+# WEEK 1
+
+task : very simple KNN
