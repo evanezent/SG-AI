@@ -1,3 +1,3 @@
 # WEEK 1
 
-task : very simple KNN
+Task : very simple KNN
