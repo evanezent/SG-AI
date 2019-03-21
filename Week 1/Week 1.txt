@@ -1,0 +1,28 @@
+#supervised learning : mesin yg belajar dari label
+#unsupervised learning : mesin belajar mengelompokan data dari kesamaan yg ada
+#reinforcement learning : membuat mesin yang memiliki kemampuan untuk belajar dengan menilai dari lingkungannya
+#deep learning : membuat mesin dapat menganalisa dan mempelajari suatu data secara mandiri
+
+#Python :
+	1. Case sensitif
+	2. Indentasi penting
+	3. List nya auto circle list -1 = index terakhir
+
+#Library di python
+	- Numpy : prefer untuk array
+	- Pandas : untuk membaca data
+	- Matplotlib : visualisasi data
+
+#fig = mengatur besar frame
+#sci-kit.learn.org
+
+#data_training : data yang sudah di labeli
+#data_test : permasalahan
+
+#kegunaan model : belajar dari data_training untuk memecahkan data_test
+
+towarsdatascience.com
+arxiv.org
+kaggle.com
+
+======= CHALLENGE DI GRUP =======
