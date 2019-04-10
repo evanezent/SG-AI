@@ -1,0 +1,12 @@
+# Stopword : menghilangkan kata yang tidak berguna
+# Tokenization : memecah kalimat menjadi kata
+# Stemming : mengembalikan kata pasif dan aktif menjadi kata dasar, ex : swimming : swim, cleaned : clean
+# Lemmazation : 
+	The stemmed form of leafs is: leaf
+	The stemmed form of leaves is: leav
+	The lemmatized form of leafs is: leaf
+	The lemmatized form of leaves is: leaf
+# Count / Desity : menghitung berapa kali kata tersebut keluar
+# isalpha : mengecek apakah kata alphabet semua
+
+
