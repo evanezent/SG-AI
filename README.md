@@ -7,3 +7,5 @@
 ### Week 4 : Implementation of week 3
 
 ### Week 2 - After Summer Holiday : Fuzzy Logic
+### Week 4 - After Summer Holiday : Genetic Algorithm
+### Week 5 - After Summer Holiday : Simple Neural Network (1 Layer)
